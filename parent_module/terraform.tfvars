@@ -9,8 +9,8 @@ vnts = {
   vnet001 = {
     name                = "dev-vnet"
     resource_group_name = "dev-rg"
-    location           = "southindia"
-    address_space     = ["10.192.0.0/24"]
+    location            = "southindia"
+    address_space       = ["10.192.0.0/24"]
   }
 }
 snts = {
